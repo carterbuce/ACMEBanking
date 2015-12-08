@@ -1,0 +1,46 @@
+Feedback on the 4003-243 Project 2: 
+
+Course: 	CSCI 140-03
+
+My name is: 	Carter Buce
+
+My account is: 	cmb9400
+
+What did you learn by doing this assignment?
+
+	I learned a lot about creating a program with MVC and I learned a lot about
+	using swing, particularly that it is very difficult to use without some sort
+	of window building tools, but it is much easier to understand now that I know
+	how to make frames and windows by hand.
+
+
+What was easy about this assignment?
+
+	the Bank class was easiest because I have a lot of experience by now with dealing
+	with command line arguments and reading and writing from files. It was especially easy
+	since there is no need to check for incorrect file input, since it was only written
+	and read using my program
+
+
+What was harder than you originally thought?
+
+	I found it was difficult to connect the classes using MVC since it was my first time
+	using the pattern, and I kept getting the controller to be able to either read or write 
+	to the view, but I couldn't figure out how to do both until I passed an actionlisterner 
+	to the constructor of the gui 
+
+
+What can the instructor do to improve this assignment?
+
+	I think the assignment was as good as it could be
+
+
+What would you have liked to do in this assignment?
+
+	I would have liked to know more about MVC, especially observer/observable and when to
+	and not to use it.
+
+
+What other issues would you like to discuss?
+
+	none
